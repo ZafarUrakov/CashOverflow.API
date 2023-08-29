@@ -9,3 +9,4 @@ namespace CashOverflow.Models.Locations
     {
         Uzbekistan
     }
+}
